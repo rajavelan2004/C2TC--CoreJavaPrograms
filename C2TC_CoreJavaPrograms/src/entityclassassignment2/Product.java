@@ -1,4 +1,4 @@
-package entityassignment2;
+package entityclassassignment2;
 
 public class Product {
     public String productName;
