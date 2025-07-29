@@ -1,4 +1,4 @@
-package day8abstraction;
+package day8.abstraction;
 
 public class Rectangle extends Shape {
 	private float width, height;
@@ -19,6 +19,6 @@ public class Rectangle extends Shape {
 	}
 	
 
-
-
 }
+
+

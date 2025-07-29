@@ -1,6 +1,6 @@
-package day8abstraction;
+package day8.abstraction;
 
-public class Square extends Shape{
+public class Square extends Shape {
 	private float side;
 	public Square()
 	{
@@ -15,6 +15,6 @@ public class Square extends Shape{
 	void calArea() {
 		super.area=side*side;		
 	}
+
+
 }
-
-

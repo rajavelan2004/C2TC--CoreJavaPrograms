@@ -1,4 +1,4 @@
-package day8abstraction;
+package day8.abstraction;
 
 public abstract class Shape {
     protected float area;
